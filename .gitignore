@@ -1,0 +1,18 @@
+# Environment variables
+# Never commit your API key!
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folder
+# A common name is venv, but add any name you use
+venv/
+env/
+
+# IDE and editor configuration folders
+.vscode/
+.idea/
